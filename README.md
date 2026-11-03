@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Popo Mompe
 
-<!--
-**Popomompe/Popomompe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior software engineer based in Roodepoort, Gauteng. I build web and mobile apps with Python, JavaScript, and Flutter, and I'm completing my Software Engineer Occupational Certificate.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript, Dart, SQL, HTML, CSS
+- **Mobile:** Flutter, Android Studio
+- **Cloud:** Microsoft Azure, Microsoft 365, Power Apps, Power Automate
+- **Tools:** Git, GitHub, VS Code
+
+## Projects
+
+- [Data Cleaning Tool](https://github.com/Popomompe/data-cleaning-tool): Python script that cleans and validates CSV data
+
+## Contact
+
+popomompe5@gmail.com
